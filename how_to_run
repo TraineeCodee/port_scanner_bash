@@ -7,3 +7,10 @@ chmod +x port_scanner.sh
 3Run it like this:
 
 ./port_scanner.sh example.com 20 100
+
+
+
+💡 Notes:
+You need netcat installed (nc command).
+
+This script checks TCP ports.

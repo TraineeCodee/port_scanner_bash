@@ -1,0 +1,9 @@
+1Save the script as port_scanner.sh
+
+2Make it executable:
+
+chmod +x port_scanner.sh
+
+3Run it like this:
+
+./port_scanner.sh example.com 20 100
